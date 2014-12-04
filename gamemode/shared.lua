@@ -40,6 +40,9 @@ function log(text, level)
 		end
 	else 
 		log("Logging error...", 0)
+		if not text then
+			log("Text is null...", 0)
+		end
 	end
 end
 
