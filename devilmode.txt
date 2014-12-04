@@ -1,0 +1,15 @@
+"devilmode"
+{
+	"base"		"sandbox"
+	"title"		"DevilMode"
+	"maps"		""
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+		
+
+	}
+
+}
